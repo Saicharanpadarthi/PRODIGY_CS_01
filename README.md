@@ -12,7 +12,7 @@ This is a simple Python implementation of the Caesar cipher, a type of substitut
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/yourusername/caesar-cipher.git
+    git clone https://github.com/Saicharanpadarthi/caesar-cipher.git
     cd caesar-cipher
     ```
 
