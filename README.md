@@ -7,22 +7,6 @@ This is a simple Python implementation of the Caesar cipher, a type of substitut
 - Encrypt messages with a specified shift.
 - Decrypt messages with a specified shift.
 
-## Usage
-
-1. Clone the repository to your local machine.
-
-    ```bash
-    git clone https://github.com/Saicharanpadarthi/caesar-cipher.git
-    cd caesar-cipher
-    ```
-
-2. Run the script.
-
-    ```bash
-    python caesar_cipher.py
-    ```
-
-3. Follow the on-screen instructions to encrypt or decrypt a message.
 
 ## Example
 
